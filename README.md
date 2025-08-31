@@ -1,4 +1,4 @@
-#  Hotel Booking Data Analysis Project
+# Hotel Booking Data Analysis – Python
 Hotel booking data analysis using Python
 
 This project explores and analyzes hotel booking data to uncover patterns in guest behavior, booking trends, and cancellations. It focuses on comparing two types of hotels — City Hotel and Resort Hotel— based on several key metrics.
